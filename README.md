@@ -1,4 +1,5 @@
 # Scrape-Amazon
+![alt text](https://github.com/atisamhaq123/Scrape-Amazon/blob/main/Capture.PNG)
 
 This is an implementation of scraping performed using Beautifulsoup.
 Data is scaped from an amazon web page..
