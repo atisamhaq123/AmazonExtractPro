@@ -1,5 +1,5 @@
 #Python program to scrape website
-#and save quotes from website
+#and save quotes from website.
 import requests
 from bs4 import BeautifulSoup
 import csv 
